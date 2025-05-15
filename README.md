@@ -1,2 +1,2 @@
 # Vinsomke sanji
-Sunset is beautiful isn't.
+Sunset is beautiful isn't it.
